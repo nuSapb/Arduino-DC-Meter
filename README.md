@@ -1,7 +1,6 @@
 # Arduino-DC-Meter
 Make a Digital Voltmeter Using an Arduino
 
-## **Arduino DC Meter**
 
 ![Circuit](https://github.com/nuSapb/Arduino-DC-Meter/blob/master/Circuit%20design_bb.jpg?raw=true)
 
